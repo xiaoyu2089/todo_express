@@ -24,3 +24,9 @@ $ express -h
     -f, --force         force on non-empty directory
 
 ```
+
+接下来可以使用一个命令来创建一个项目
+
+express --git -e myapp
+
+下一节我们研究一下express的路由系统
